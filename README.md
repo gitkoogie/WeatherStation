@@ -1,2 +1,3 @@
 # WeatherStation
-Indoor weather station project. Captures temperature, air pressure and humidity as of now.
+A simple indoor weather station project which captures temperature, air pressure and humidity (as of now).
+
