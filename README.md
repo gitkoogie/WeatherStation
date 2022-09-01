@@ -28,7 +28,7 @@ Following steps should be sufficient to get going
 - Install necessary libraries in Arduino IDE
 -  Go to Arduino IDE preferences (in your project) and put the following link in the "Additional Boards Manager URLs" to enable the ESP8266 for the IDE.
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
-- Connect according to schematics (D8, RX, and TX pins should not be connected during code upload, upload won't work)
+- Connect according to schematics (Some pins should not be connected during code upload, upload won't work. See "espModuleBoot.png")
 
 LittleFS lets you put the javascript, html, and css files in the ESP8266 filesystem.
 Put the (your) javascript, css, and html files in a folder called "data" next to your .ino file.
