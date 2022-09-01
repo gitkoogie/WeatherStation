@@ -8,7 +8,7 @@ Temperature and Humidity Sensor: AM2320
 Datasheet: https://cdn-shop.adafruit.com/product-files/3721/AM2320.pdf
 
 Temperature and Pressure sensor: BMP388
-Datasheet: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-bmp388.pdf?timestamp=1600143854
+Datasheet: https://wiki.dfrobot.com/BMP388_Digital_Pressure_Sensor_Module_SKU_SEN0371
 
 The components are mounted on a 40x60mm experiment board according to the image and circuit diagram below.
 
